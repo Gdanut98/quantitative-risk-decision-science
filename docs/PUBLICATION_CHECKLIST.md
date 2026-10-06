@@ -1,0 +1,7 @@
+- [x] Source-derived decision-tree results
+- [x] VOI/Bayes/risk-aversion evidence
+- [x] Monte Carlo framework
+- [x] Case study/interview guide
+- [ ] Refactor strongest submitted simulations
+- [ ] Export decision-tree/simulation visuals
+- [ ] Publish repository
