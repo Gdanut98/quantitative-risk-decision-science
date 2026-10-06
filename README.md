@@ -36,3 +36,12 @@ A separate decision problem used unconditional signal probabilities and Bayes po
 
 ## Simulation
 Course implementations included 10,000–100,000 repetitions and discrete, exponential, triangular and normal inputs, plus correlated uncertainty and sampling-distribution/CLT experiments.
+
+
+---
+
+## Portfolio navigation
+- [George Danut — Analytics & BI Portfolio](https://gdanut98.github.io/GeorgeDanut.github.io/)
+- [GitHub profile](https://github.com/Gdanut98)
+
+**Reviewer path:** Start with this README, then inspect the repository's case-study/results documentation and executable SQL or Python evidence. Academic foundations and later portfolio extensions are identified separately where applicable.
